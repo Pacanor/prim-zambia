@@ -1110,6 +1110,24 @@ a:focus {
     padding: 45px 0 15px 0;
 }
 
+.team .big-quotes {
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 0px;
+}
+
+.team .quote-source {
+    font-weight: 500;
+    color:#38bb1f;
+
+}
+
+.team .team-item:hover .quote-source {
+    font-weight: 500;
+    color: black;
+
+}
+
 .team .team-item {
     position: relative;
     background: #ffffff;
